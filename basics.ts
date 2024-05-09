@@ -32,3 +32,9 @@ let people:{
 let course = 'nlanlçabsddsf';
 
 course = 123;
+
+//union
+
+let course2: string | number = 'nlanlçabsddsf';
+
+course2 = 123;
