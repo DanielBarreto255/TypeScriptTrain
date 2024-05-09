@@ -25,4 +25,10 @@ let person: {
 let people:{
     name: string
     age: number;
-}[];
+}[]; 
+
+//type inferance
+
+let course = 'nlanlçabsddsf';
+
+course = 123;
