@@ -50,3 +50,14 @@ type Person = {
 let people2: Person;
 
 let person2: Person[]; 
+
+
+// functions
+
+function add(a:number, b:number){
+    return a + b;
+}
+
+function print(value:any){
+    console.log(value);
+}
