@@ -38,3 +38,15 @@ course = 123;
 let course2: string | number = 'nlanlçabsddsf';
 
 course2 = 123;
+
+
+//alias
+
+type Person = {
+    name: string;
+    ag: number;
+}
+
+let people2: Person;
+
+let person2: Person[]; 
