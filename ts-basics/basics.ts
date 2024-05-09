@@ -31,7 +31,7 @@ let people:{
 
 let course = 'nlanlçabsddsf';
 
-course = 123;
+//course = 123;
 
 //union
 
